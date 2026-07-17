@@ -1,0 +1,2 @@
+:HL["/mdti-qian-ge-test/_next/static/css/dd13552d22106c8d.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"UMqaHLgcYfoiN0d7Wsb8L"}

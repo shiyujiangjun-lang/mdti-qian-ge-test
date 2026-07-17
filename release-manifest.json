@@ -1,0 +1,10 @@
+{
+  "product": "MDTI 钱格测试",
+  "versions": {
+    "content": "1.0.0",
+    "scoring": "1.0.0",
+    "ui": "1.0.0"
+  },
+  "sourceCommit": "0ac49c8b3de60fa23332f78d852059b157846879",
+  "artifactSha256": "7d8d218c0ecc0db8c777b08269028c57e9dceebc59e9e5986b082cfd9ab14d78"
+}
